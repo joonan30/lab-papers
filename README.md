@@ -1,13 +1,13 @@
 # An Lab — Publication Summaries
 
-Structured, in-depth summaries of peer-reviewed papers published by the **An Lab** (PI: Joon-Yong An, 안준용), Korea University College of Health Science / School of Biosystems and Biomedical Sciences.
+Structured, in-depth English summaries of peer-reviewed papers published by the **An Lab** (PI: Joon-Yong An), Korea University College of Health Science / Division of Biosystems and Biomedical Sciences.
 
-The lab works on the genomics of neurodevelopmental and psychiatric disorders (autism, Alzheimer's disease), statistical/computational methods for rare and non-coding variation, cancer proteogenomics, and AI/ML for genomic medicine.
+The lab studies the genomics of neurodevelopmental and psychiatric disorders (autism, Alzheimer's disease), statistical and computational methods for rare and non-coding variation, cancer proteogenomics, and AI/ML for genomic medicine.
 
 - **30 papers**, spanning **2014–2026**.
 - Each summary covers: research overview, methods & technologies, key genes/proteins, main findings, applications, extensibility, disease relevance, and novelty vs. prior work.
-- Summaries are written in **Korean**. Full-text source PDFs are **not** included (publisher copyright).
-- These are independent reading summaries; they are not the papers themselves.
+- Full-text source PDFs are **not** included (publisher copyright).
+- These are independent reading summaries, not the papers themselves.
 
 ## Index
 
@@ -58,7 +58,3 @@ The lab works on the genomics of neurodevelopmental and psychiatric disorders (a
 The summary texts in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt them with attribution. See [LICENSE](LICENSE).
 
 The **copyright of each underlying paper remains with its respective publisher**; this repository distributes only independent summaries, not the original articles.
-
----
-
-*Generated summaries for internal/educational reference. For the authoritative content, please consult the original publications via the linked PMIDs.*
