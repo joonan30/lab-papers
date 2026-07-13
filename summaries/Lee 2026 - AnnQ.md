@@ -3,7 +3,7 @@
 ## Bibliographic Information
 - **Authors**: Davin Lee (co-first author) and Gaeun Byeon (co-first author), Seojin Chung, Dongmin Shin, Jongseo Park, Ingyeon Koh, **Joon-Yong An (corresponding author)**. (Davin Lee and Gaeun Byeon are co-first authors; affiliations include the Department of Integrated Biomedical and Life Sciences, Korea University, with some authors at the Hospital for Sick Children, Toronto.)
 - **Journal / Year**: Briefings in Bioinformatics, 2026, Vol. 27, Issue 3, article bbag278 (Published 31 May 2026; Received 12 Mar 2026, Revised 27 Apr 2026, Accepted 11 May 2026)
-- **PMID / DOI**: PMID not stated in the paper / DOI 10.1093/bib/bbag278
+- **PMID / DOI**: PMID 42218718 / DOI 10.1093/bib/bbag278
 - **Article Type**: Methodology / software tool (Oxford "Problem Solving Protocol" category, Open Access CC-BY 4.0)
 
 ## One-Line Summary
