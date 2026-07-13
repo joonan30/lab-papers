@@ -1,0 +1,4 @@
+# Never publish source PDFs (publisher copyright)
+*.pdf
+*.PDF
+.DS_Store
